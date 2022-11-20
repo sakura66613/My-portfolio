@@ -122,3 +122,23 @@ i {
   text-align: center;
   margin-bottom: 25px;
 }
+
+.inform-3 {
+  max-width: 500px;
+  margin-left: 15px;
+  padding-top: 90px;
+}
+
+.second-project {
+  width: 400px;
+}
+.inform-4 {
+  max-width: 300px;
+  padding-top: 10px;
+  margin-right: 30px;
+}
+
+.project-2 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
