@@ -91,3 +91,34 @@ i {
   margin-top: 15px;
   width: 30px;
 }
+
+.hobbi,
+.contacts {
+  text-align: center;
+}
+
+.images {
+  display: flex;
+  justify-content: center;
+}
+
+.coding,
+.genshin {
+  width: 400px;
+  height: 200px;
+}
+
+.code,
+.impact {
+  text-align: center !important;
+  width: 400px;
+}
+
+.contacts {
+  margin-top: 25px;
+}
+
+.mail-inform-2 {
+  text-align: center;
+  margin-bottom: 25px;
+}
